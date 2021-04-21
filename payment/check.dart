@@ -83,8 +83,8 @@ class _CheckRazorState extends State<CheckRazor> {
       'buttontext': "Pay with Razorpay",
       'description': 'Your business Partner',
       'prefill': {
-        'contact': '9847218187',
-        'email': 'anas@gmail.com',
+        'contact': '9854758474',
+        'email': 'shagun@gmail.com',
       }
     };
   }
