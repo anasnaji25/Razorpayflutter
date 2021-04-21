@@ -1,7 +1,7 @@
 # Razorpayflutter
 
 //step1
-//add this package to flutter
+//add this package to flutter >>
 razorpay_flutter: ^1.2.2
 
 //step2
@@ -13,7 +13,9 @@ razorpay_flutter: ^1.2.2
 //and a subscribe button
 //in that button add the below code
 
-onTap(){
+onTap()
+
+{
 
 var price = 100;
 Navigator.push(
